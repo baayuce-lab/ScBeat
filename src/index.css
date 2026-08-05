@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-mono: "JetBrains Mono", monospace;
+  --font-sans: "Plus Jakarta Sans", system-ui, sans-serif;
+}
+
+/* Editorial aesthetic custom utilities */
+.paper-bg {
+  background-color: #FDFCFB;
+}
+
+.card-bg {
+  background-color: #FFFFFF;
+}
+
+.panel-bg {
+  background-color: #F9F7F2;
+}
+
+.editorial-border {
+  border-color: #1A1A1A;
+}
+
+.editorial-shadow {
+  box-shadow: 4px 4px 0px #1A1A1A;
+}
+
+.editorial-shadow-lg {
+  box-shadow: 8px 8px 0px #1A1A1A;
+}
+
+.editorial-shadow-sm {
+  box-shadow: 2px 2px 0px #1A1A1A;
+}

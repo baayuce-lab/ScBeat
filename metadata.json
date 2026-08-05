@@ -1,0 +1,8 @@
+{
+  "name": "ScriptBeat",
+  "description": "Core AI Dramaturgy Engine for screenplay analysis, dramatic structure evaluation, and producer pitch deck generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
